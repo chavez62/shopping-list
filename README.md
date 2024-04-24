@@ -34,6 +34,7 @@ To use the Item Manager Application:
 
 Remember, this application uses local storage and will only work in browsers that support the Web Storage API.
 
+![screen](https://github.com/chavez62/shopping-list/assets/67764701/c7afa7a3-54f9-45ae-b240-b032db742a57)
 
 
 
