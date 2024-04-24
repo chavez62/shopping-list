@@ -34,13 +34,6 @@ To use the Item Manager Application:
 
 Remember, this application uses local storage and will only work in browsers that support the Web Storage API.
 
-## Contributing
-Contributions to this project are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a new branch for each feature or improvement.
-3. Submit a pull request with a detailed description of the changes.
-
 
 
 
